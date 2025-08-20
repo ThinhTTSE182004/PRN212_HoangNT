@@ -45,6 +45,9 @@ namespace BookManager
             }
         };
 
+        // Cần 1 prop để hứng cái thằng book được select bên Grid sang trong mode edit ; còn mode tạo mới/create không care !!!!!!!
+        public Book Entity { get; set; } = null;
+
         public DetailWindow()
         {
             InitializeComponent();
@@ -52,17 +55,28 @@ namespace BookManager
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            // ĐỔ data vào các ô nhập ở đây
-
-            // Đổ Data vào combo-box , treo đầu dê lấy thịt heo
-            // Show ra cata name nhưng khi select thì túm thằng cateid lại để làm FK cho book 
-
             CateCombobox.ItemsSource = cate;
             CateCombobox.DisplayMemberPath = "CateName";
             CateCombobox.SelectedValuePath = "CateId";
 
-            //Nhảy thử đến cate đam mỹ
-            CateCombobox.SelectedValue = 3;
+            // ĐỔ data vào các ô nhập ở đây
+            // phải check xem Entity có value không , neewu null mode tạo mới không làm gì cả , show màn hình trắng 
+            // nếu khác null tức là edit thì phải fill các ô nhập để edit lại 
+
+            if (Entity != null)
+            {
+                txt_Id.Text = Entity.Id.ToString();
+                txt_Title.Text = Entity.Title;
+                txt_Author.Text = Entity.Author;
+                txt_Price.Text = Entity.Price.ToString();
+                txt_Year.Text = Entity.PublishedYear.ToString();
+            }
+
+            // Đổ Data vào combo-box , treo đầu dê lấy thịt heo
+            // Show ra cata name nhưng khi select thì túm thằng cateid lại để làm FK cho book 
+            //CateCombobox.ItemsSource = cate;
+            //CateCombobox.DisplayMemberPath = "CateName";
+            //CateCombobox.SelectedValuePath = "CateId";
         }
 
         private void btn_Save_Click(object sender, RoutedEventArgs e)

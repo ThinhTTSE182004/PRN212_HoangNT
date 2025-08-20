@@ -24,7 +24,7 @@
                 <DataGridTextColumn Header="Năm Phát Hành" Binding="{Binding PublishedYear}"/>
             </DataGrid.Columns>
         </DataGrid>
-        <Button x:Name="UpdateButton" Content="Update Book" HorizontalAlignment="Left" Height="auto" Margin="674,210,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black"/>
+        <Button x:Name="UpdateButton" Content="Update Book" HorizontalAlignment="Left" Height="auto" Margin="674,210,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black" Click="UpdateButton_Click"/>
         
         <Button x:Name="DeleteButton" Content="Delete Book" HorizontalAlignment="Left" Height="auto" Margin="674,265,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black" Click="DeleteButton_Click"/>
 

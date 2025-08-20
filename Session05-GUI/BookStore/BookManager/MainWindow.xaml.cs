@@ -152,6 +152,26 @@ namespace BookManager
             detail.ShowDialog(); // show modal , không tắt cửa sổ detail không cho quat về main bấm tiếp
             this.Close();
         }
+
+        private void UpdateButton_Click(object sender, RoutedEventArgs e)
+        {
+            Book? selectedBook = BookListDataGrid.SelectedItem as Book;
+
+            if (selectedBook == null)
+            {
+                MessageBox.Show("Please Select A Book before Update", "Select One", MessageBoxButton.OK, MessageBoxImage.Warning);
+                return;
+            }
+            //đã chọn rồi thì mới đến đây
+            // gọi form detail truyền selected sang /tham chiếu 
+            DetailWindow detail = new DetailWindow();
+
+            //gửi selected sang prop vừa tạo 
+            detail.Entity = selectedBook; // gọi hàm set của prop Entity
+
+            detail.ShowDialog();
+            
+        }
     }
 
     //class khác here !!!! 

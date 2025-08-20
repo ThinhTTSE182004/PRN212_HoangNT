@@ -12,27 +12,27 @@
 
         <StackPanel Margin="53,133,219,400">
             <TextBlock Text="Mã Số" Margin="0,0,0,5"/>
-            <TextBox x:Name="txt_email1" Height="30" />
+            <TextBox x:Name="txt_Id" Height="30" FontSize="10" />
         </StackPanel>
 
         <StackPanel Margin="53,197,219,336">
             <TextBlock Text="Tiêu Đề" Margin="0,0,0,5"/>
-            <TextBox x:Name="txt_email" Height="30" />
+            <TextBox x:Name="txt_Title" Height="30" FontSize="10" />
         </StackPanel>
 
         <StackPanel Margin="53,258,219,249">
             <TextBlock Text="Tác Giả" Margin="0,0,0,5"/>
-            <TextBox x:Name="txt_password" Height="30" />
+            <TextBox x:Name="txt_Author" Height="30" FontSize="10" />
         </StackPanel>
 
         <StackPanel Margin="53,321,219,186">
             <TextBlock Text="Giá Tiền" Margin="0,0,0,5"/>
-            <TextBox x:Name="txt_password1" Height="30" />
+            <TextBox x:Name="txt_Price" Height="30" FontSize="10"/>
         </StackPanel>
 
         <StackPanel Margin="53,383,219,124">
             <TextBlock Text="Năm Phát Hành" Margin="0,0,0,5"/>
-            <TextBox x:Name="txt_password2" Height="30" />
+            <TextBox x:Name="txt_Year" Height="30" FontSize="10"/>
         </StackPanel>
 
 
