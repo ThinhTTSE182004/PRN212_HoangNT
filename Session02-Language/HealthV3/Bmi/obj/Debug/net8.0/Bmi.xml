@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCalculator">
+            <summary>
+            Class này cung cấp các hàm tính BMI của ai đó 
+            This class offers methods for calculating BMI
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCalculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            This method return a BMI base on weight and height 
+            Hàm này trả về chỉ số BMI dựa trên cân nặng và chiều cao
+            </summary>
+            <param name="weight">Weight is measured by (kg)</param>
+            <param name="height">Height is measured by (m)</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

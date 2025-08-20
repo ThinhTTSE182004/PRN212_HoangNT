@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\HoangNT\\Session04-Collection\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01E7546B-8CD1-4826-B134-674163CD49CE}|ObjectArray\\ObjectArray.csproj|f:\\hoangnt\\session04-collection\\array\\objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E7546B-8CD1-4826-B134-674163CD49CE}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E7546B-8CD1-4826-B134-674163CD49CE}|ObjectArray\\ObjectArray.csproj|f:\\hoangnt\\session04-collection\\array\\objectarray\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E7546B-8CD1-4826-B134-674163CD49CE}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01E7546B-8CD1-4826-B134-674163CD49CE}|ObjectArray\\ObjectArray.csproj|f:\\hoangnt\\session04-collection\\array\\objectarray\\objectarray.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01E7546B-8CD1-4826-B134-674163CD49CE}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\objectarray.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3008D4A-EECB-4E5C-A202-3569DD8063B4}|PrimitiveArrray\\PrimitiveArrray.csproj|f:\\hoangnt\\session04-collection\\array\\primitivearrray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3008D4A-EECB-4E5C-A202-3569DD8063B4}|PrimitiveArrray\\PrimitiveArrray.csproj|solutionrelative:primitivearrray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session04-Collection\\Array\\ObjectArray\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Entities\\Student.cs",
+              "ToolTip": "F:\\HoangNT\\Session04-Collection\\Array\\ObjectArray\\Entities\\Student.cs",
+              "RelativeToolTip": "ObjectArray\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:16:26.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObjectArray.csproj",
+              "DocumentMoniker": "F:\\HoangNT\\Session04-Collection\\Array\\ObjectArray\\ObjectArray.csproj",
+              "RelativeDocumentMoniker": "ObjectArray\\ObjectArray.csproj",
+              "ToolTip": "F:\\HoangNT\\Session04-Collection\\Array\\ObjectArray\\ObjectArray.csproj",
+              "RelativeToolTip": "ObjectArray\\ObjectArray.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-18T11:16:00.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session04-Collection\\Array\\ObjectArray\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Program.cs",
+              "ToolTip": "F:\\HoangNT\\Session04-Collection\\Array\\ObjectArray\\Program.cs",
+              "RelativeToolTip": "ObjectArray\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAgwBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:15:49.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session04-Collection\\Array\\PrimitiveArrray\\Program.cs",
+              "RelativeDocumentMoniker": "PrimitiveArrray\\Program.cs",
+              "ToolTip": "F:\\HoangNT\\Session04-Collection\\Array\\PrimitiveArrray\\Program.cs",
+              "RelativeToolTip": "PrimitiveArrray\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwE4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T09:33:06.355Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

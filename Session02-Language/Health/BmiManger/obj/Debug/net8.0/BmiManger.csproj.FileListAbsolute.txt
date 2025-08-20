@@ -1,0 +1,14 @@
+F:\HoangNT\Session02-Language\Health\BmiManger\bin\Debug\net8.0\BmiManger.exe
+F:\HoangNT\Session02-Language\Health\BmiManger\bin\Debug\net8.0\BmiManger.deps.json
+F:\HoangNT\Session02-Language\Health\BmiManger\bin\Debug\net8.0\BmiManger.runtimeconfig.json
+F:\HoangNT\Session02-Language\Health\BmiManger\bin\Debug\net8.0\BmiManger.dll
+F:\HoangNT\Session02-Language\Health\BmiManger\bin\Debug\net8.0\BmiManger.pdb
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.AssemblyInfoInputs.cache
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.AssemblyInfo.cs
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.dll
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\refint\BmiManger.dll
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.pdb
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\BmiManger.genruntimeconfig.cache
+F:\HoangNT\Session02-Language\Health\BmiManger\obj\Debug\net8.0\ref\BmiManger.dll

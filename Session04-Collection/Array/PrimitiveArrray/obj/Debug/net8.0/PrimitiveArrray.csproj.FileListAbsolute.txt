@@ -1,0 +1,14 @@
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\bin\Debug\net8.0\PrimitiveArrray.exe
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\bin\Debug\net8.0\PrimitiveArrray.deps.json
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\bin\Debug\net8.0\PrimitiveArrray.runtimeconfig.json
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\bin\Debug\net8.0\PrimitiveArrray.dll
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\bin\Debug\net8.0\PrimitiveArrray.pdb
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.AssemblyInfoInputs.cache
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.AssemblyInfo.cs
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.dll
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\refint\PrimitiveArrray.dll
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.pdb
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\PrimitiveArrray.genruntimeconfig.cache
+F:\HoangNT\Session04-Collection\Array\PrimitiveArrray\obj\Debug\net8.0\ref\PrimitiveArrray.dll

@@ -1,0 +1,14 @@
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.exe
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.deps.json
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.runtimeconfig.json
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.dll
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.pdb
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.AssemblyInfoInputs.cache
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.AssemblyInfo.cs
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.dll
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\refint\StudentManagerV2.dll
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.pdb
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.genruntimeconfig.cache
+F:\HoangNT\Session03-OOP\SchoolManager\StudentManagerV2\obj\Debug\net8.0\ref\StudentManagerV2.dll

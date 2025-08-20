@@ -1,0 +1,14 @@
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\bin\Release\net8.0\ObjectManager.exe
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\bin\Release\net8.0\ObjectManager.deps.json
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\bin\Release\net8.0\ObjectManager.runtimeconfig.json
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\bin\Release\net8.0\ObjectManager.dll
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\bin\Release\net8.0\ObjectManager.pdb
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.AssemblyInfoInputs.cache
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.AssemblyInfo.cs
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.dll
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\refint\ObjectManager.dll
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.pdb
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ObjectManager.genruntimeconfig.cache
+F:\HoangNT\Session03-OOP\ObjectInsideOut\ObjectManager\obj\Release\net8.0\ref\ObjectManager.dll

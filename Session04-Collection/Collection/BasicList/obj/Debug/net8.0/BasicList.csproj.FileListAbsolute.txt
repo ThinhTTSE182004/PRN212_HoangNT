@@ -1,0 +1,14 @@
+F:\HoangNT\Session04-Collection\Collection\BasicList\bin\Debug\net8.0\BasicList.exe
+F:\HoangNT\Session04-Collection\Collection\BasicList\bin\Debug\net8.0\BasicList.deps.json
+F:\HoangNT\Session04-Collection\Collection\BasicList\bin\Debug\net8.0\BasicList.runtimeconfig.json
+F:\HoangNT\Session04-Collection\Collection\BasicList\bin\Debug\net8.0\BasicList.dll
+F:\HoangNT\Session04-Collection\Collection\BasicList\bin\Debug\net8.0\BasicList.pdb
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.AssemblyInfoInputs.cache
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.AssemblyInfo.cs
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.dll
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\refint\BasicList.dll
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.pdb
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\BasicList.genruntimeconfig.cache
+F:\HoangNT\Session04-Collection\Collection\BasicList\obj\Debug\net8.0\ref\BasicList.dll

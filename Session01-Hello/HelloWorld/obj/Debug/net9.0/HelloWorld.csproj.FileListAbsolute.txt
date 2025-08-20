@@ -1,0 +1,14 @@
+F:\HoangNT\Session01-Hello\HelloWorld\bin\Debug\net9.0\HelloWorld.exe
+F:\HoangNT\Session01-Hello\HelloWorld\bin\Debug\net9.0\HelloWorld.deps.json
+F:\HoangNT\Session01-Hello\HelloWorld\bin\Debug\net9.0\HelloWorld.runtimeconfig.json
+F:\HoangNT\Session01-Hello\HelloWorld\bin\Debug\net9.0\HelloWorld.dll
+F:\HoangNT\Session01-Hello\HelloWorld\bin\Debug\net9.0\HelloWorld.pdb
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfoInputs.cache
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.AssemblyInfo.cs
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.dll
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\refint\HelloWorld.dll
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.pdb
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\HelloWorld.genruntimeconfig.cache
+F:\HoangNT\Session01-Hello\HelloWorld\obj\Debug\net9.0\ref\HelloWorld.dll

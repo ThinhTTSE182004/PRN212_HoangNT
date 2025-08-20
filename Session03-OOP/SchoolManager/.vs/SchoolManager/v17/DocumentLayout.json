@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71FD6D-5B91-4A18-9E52-0E406F51EC83}|StudentManagerV6\\StudentManagerV6.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D71FD6D-5B91-4A18-9E52-0E406F51EC83}|StudentManagerV6\\StudentManagerV6.csproj|solutionrelative:studentmanagerv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D71FD6D-5B91-4A18-9E52-0E406F51EC83}|StudentManagerV6\\StudentManagerV6.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D71FD6D-5B91-4A18-9E52-0E406F51EC83}|StudentManagerV6\\StudentManagerV6.csproj|solutionrelative:studentmanagerv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF08AF6-1A96-49CB-BCCD-DB731813FD48}|StudentManagerV3\\StudentManagerV3.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF08AF6-1A96-49CB-BCCD-DB731813FD48}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A004228-C1DD-4EE6-A347-99853AEE0902}|StudentManagerV2\\StudentManagerV2.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A004228-C1DD-4EE6-A347-99853AEE0902}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76302B4A-9CBE-4884-82F3-46FBEF90906B}|StudentmanagerV4\\StudentmanagerV4.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76302B4A-9CBE-4884-82F3-46FBEF90906B}|StudentmanagerV4\\StudentmanagerV4.csproj|solutionrelative:studentmanagerv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06355D40-7BEA-4FF2-B79C-88555113DE49}|StudentManagerV5\\StudentManagerV5.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06355D40-7BEA-4FF2-B79C-88555113DE49}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06355D40-7BEA-4FF2-B79C-88555113DE49}|StudentManagerV5\\StudentManagerV5.csproj|f:\\hoangnt\\session03-oop\\schoolmanager\\studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06355D40-7BEA-4FF2-B79C-88555113DE49}|StudentManagerV5\\StudentManagerV5.csproj|solutionrelative:studentmanagerv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Entities\\Student.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV2\\Entities\\Student.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:32:15.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV3\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3\\Entities\\Student.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV3\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV3\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:29:00.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentmanagerV4\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentmanagerV4\\Entities\\Student.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentmanagerV4\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentmanagerV4\\Entities\\Student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:28:44.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV5\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV5\\Entities\\Student.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV5\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV5\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:28:32.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV5\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV5\\Program.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV5\\Program.cs",
+              "RelativeToolTip": "StudentManagerV5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T07:28:31.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV6\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6\\Entities\\Student.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV6\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV6\\Entities\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:00:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV6\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6\\Program.cs",
+              "ToolTip": "F:\\HoangNT\\Session03-OOP\\SchoolManager\\StudentManagerV6\\Program.cs",
+              "RelativeToolTip": "StudentManagerV6\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T12:00:15.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

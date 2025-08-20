@@ -1,0 +1,13 @@
+F:\HoangNT\Session02-Language\HealthV3\Bmi\bin\Debug\net8.0\Bmi.deps.json
+F:\HoangNT\Session02-Language\HealthV3\Bmi\bin\Debug\net8.0\Bmi.dll
+F:\HoangNT\Session02-Language\HealthV3\Bmi\bin\Debug\net8.0\Bmi.pdb
+F:\HoangNT\Session02-Language\HealthV3\Bmi\bin\Debug\net8.0\Bmi.xml
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.dll
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.xml
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\Bmi.pdb
+F:\HoangNT\Session02-Language\HealthV3\Bmi\obj\Debug\net8.0\ref\Bmi.dll

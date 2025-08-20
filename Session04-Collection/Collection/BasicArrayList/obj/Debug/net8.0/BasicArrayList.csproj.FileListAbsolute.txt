@@ -1,0 +1,14 @@
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.GeneratedMSBuildEditorConfig.editorconfig
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.AssemblyInfoInputs.cache
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.AssemblyInfo.cs
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.csproj.CoreCompileInputs.cache
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\bin\Debug\net8.0\BasicArrayList.exe
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\bin\Debug\net8.0\BasicArrayList.deps.json
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\bin\Debug\net8.0\BasicArrayList.runtimeconfig.json
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\bin\Debug\net8.0\BasicArrayList.dll
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\bin\Debug\net8.0\BasicArrayList.pdb
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.dll
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\refint\BasicArrayList.dll
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.pdb
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\BasicArrayList.genruntimeconfig.cache
+F:\HoangNT\Session04-Collection\Collection\BasicArrayList\obj\Debug\net8.0\ref\BasicArrayList.dll
