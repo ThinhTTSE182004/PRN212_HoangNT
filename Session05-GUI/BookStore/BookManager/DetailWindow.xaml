@@ -1,0 +1,49 @@
+﻿<Window x:Class="BookManager.DetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BookManager"
+        mc:Ignorable="d"
+        Title="Detail Of A Book" Height="712" Width="500" Background="#C73636" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid Margin="0,0,0,88">
+        <Rectangle Stroke="Black" Margin="21,105,182,-32" RadiusX="10" RadiusY="10" />
+        <Label Content="Creat/Update Book" HorizontalAlignment="Center" Height="auto" Margin="0,10,0,0" VerticalAlignment="Top" Width="auto" Style="{StaticResource LargerLabel}"/>
+
+        <StackPanel Margin="53,133,219,400">
+            <TextBlock Text="Mã Số" Margin="0,0,0,5"/>
+            <TextBox x:Name="txt_email1" Height="30" />
+        </StackPanel>
+
+        <StackPanel Margin="53,197,219,336">
+            <TextBlock Text="Tiêu Đề" Margin="0,0,0,5"/>
+            <TextBox x:Name="txt_email" Height="30" />
+        </StackPanel>
+
+        <StackPanel Margin="53,258,219,249">
+            <TextBlock Text="Tác Giả" Margin="0,0,0,5"/>
+            <TextBox x:Name="txt_password" Height="30" />
+        </StackPanel>
+
+        <StackPanel Margin="53,321,219,186">
+            <TextBlock Text="Giá Tiền" Margin="0,0,0,5"/>
+            <TextBox x:Name="txt_password1" Height="30" />
+        </StackPanel>
+
+        <StackPanel Margin="53,383,219,124">
+            <TextBlock Text="Năm Phát Hành" Margin="0,0,0,5"/>
+            <TextBox x:Name="txt_password2" Height="30" />
+        </StackPanel>
+
+
+        <Button x:Name="btn_Save" Content="Save" Width="auto" Height="auto"
+             FontSize="20" Margin="394,235,11,325" Click="btn_Save_Click"
+        />
+        <Button x:Name="btn_Close" Content="Close" Width="auto" Height="auto"
+            FontSize="20" Margin="394,327,10,233"
+        />
+        <TextBlock Text="Năm Phát Hành" Margin="56,447,217,121"/>
+
+        <ComboBox x:Name="CateCombobox" HorizontalAlignment="Left" Height="25" Margin="53,468,0,0" VerticalAlignment="Top" Width="230" DisplayMemberPath="" SelectedValuePath=""/>
+    </Grid>
+</Window>

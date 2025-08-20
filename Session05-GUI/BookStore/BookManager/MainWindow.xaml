@@ -11,7 +11,7 @@
 
         <Button x:Name="LoadButton" Content="Load Data" HorizontalAlignment="Left" Height="auto" Margin="674,109,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black" Click="LoadButton_Click"/>
 
-        <Button x:Name="CreateButton" Content="Create Book" HorizontalAlignment="Left" Height="auto" Margin="674,159,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black"/>
+        <Button x:Name="CreateButton" Content="Create Book" HorizontalAlignment="Left" Height="auto" Margin="674,159,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black" Click="CreateButton_Click"/>
 
         <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="auto" Margin="674,319,0,0" VerticalAlignment="Top" Width="auto" FontSize="20" FontWeight="Medium" Foreground="Beige" Background="Black" Click="QuitButton_Click" />
 

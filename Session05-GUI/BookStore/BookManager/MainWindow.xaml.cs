@@ -143,6 +143,15 @@ namespace BookManager
             // Gọi hàm xóa, xóa database và tải lại cái lưới , F5 grid 
             MessageBox.Show("Xóa Thành Công Rồi");
         }
+
+        private void CreateButton_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide();
+
+            DetailWindow detail = new DetailWindow();
+            detail.ShowDialog(); // show modal , không tắt cửa sổ detail không cho quat về main bấm tiếp
+            this.Close();
+        }
     }
 
     //class khác here !!!! 

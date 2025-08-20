@@ -23,5 +23,19 @@ namespace BookManager
         {
             InitializeComponent();
         }
+
+        private void btn_Login_Click(object sender, RoutedEventArgs e)
+        {
+            this.Hide(); // ẩn chính mình khi được click Login
+            //gọi cửa sổ Main, là 1 class cần new , và gọi hàm render
+            MainWindow main = new MainWindow();
+            main.Show();
+            this.Close();
+        }
+
+        private void btn_Quit_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }

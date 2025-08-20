@@ -21,3 +21,6 @@ F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\ref\Book
 F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\LoginWindow.g.cs
 F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\LoginWindow.baml
 F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\App.baml
+F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\BookManager.sourcelink.json
+F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\DetailWindow.g.cs
+F:\HoangNT\Session05-GUI\BookStore\BookManager\obj\Debug\net8.0-windows\DetailWindow.baml

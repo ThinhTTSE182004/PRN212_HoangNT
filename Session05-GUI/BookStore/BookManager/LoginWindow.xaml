@@ -5,13 +5,47 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BookManager"
         mc:Ignorable="d"
-        Title="Login Window" Height="450" Width="850" Background="#C73636" WindowStartupLocation="CenterScreen" >
-    <Grid>
-        <Label Content="Login" HorizontalAlignment="Left" Height="auto" Margin="372,26,0,0" VerticalAlignment="Top" Width="auto" Style="{StaticResource LargerLabel}"/>
+        Title="Login Window" Height="450" Width="700" Background="#C73636" WindowStartupLocation="CenterScreen" >
+    <Grid Margin="152,29,152,89">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
 
-        <Label Content="Email" HorizontalAlignment="Left" Height="34" Margin="44,117,0,0" VerticalAlignment="Top" Width="64"/>
+            <RowDefinition Height="30"/>
 
-        <Label Content="Password" HorizontalAlignment="Left" Height="auto" Margin="44,0,0,0" VerticalAlignment="Center" Width="auto"/>
+            <RowDefinition Height="Auto"/>
 
+            <RowDefinition/>
+
+            <RowDefinition Height="30"/>
+
+            <RowDefinition Height="Auto"/>
+
+        </Grid.RowDefinitions>
+
+
+        <TextBlock Text="LOGIN" FontSize="20" FontWeight="Bold"
+                   HorizontalAlignment="Center" Foreground="#333" Grid.Row="0"/>
+
+
+        <StackPanel Grid.Row="2" Margin="0,10,0,0">
+            <TextBlock Text="Email" Margin="0,0,0,5"/>
+            <TextBox x:Name="txt_email" Height="30" />
+        </StackPanel>
+
+
+        <StackPanel Grid.Row="3" Margin="0,10,0,0">
+            <TextBlock Text="Password" Margin="0,0,0,5"/>
+            <PasswordBox x:Name="txt_password" Height="30" />
+        </StackPanel>
+        <Rectangle Grid.RowSpan="6" Stroke="Black" Margin="-32,-25,-32,-28" RadiusX="10" RadiusY="10" />
+
+
+        <Button x:Name="btn_Login" Content="Login" Grid.Row="5" Width="auto" Height="auto"
+                HorizontalAlignment="Center" Margin="0,10,0,0" Click="btn_Login_Click"
+                />
+
+        <Button x:Name="btn_Quit" Content="Quit" Grid.Row="5" Width="44" Height="auto" FontSize="10"
+        HorizontalAlignment="Left" Margin="342,75,0,-19" Click="btn_Quit_Click"
+        />
     </Grid>
 </Window>
