@@ -147,10 +147,9 @@ namespace BookManager
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
             this.Hide();
-
             DetailWindow detail = new DetailWindow();
+            detail.Header.Content = "Create";
             detail.ShowDialog(); // show modal , không tắt cửa sổ detail không cho quat về main bấm tiếp
-            this.Close();
         }
 
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
@@ -165,6 +164,7 @@ namespace BookManager
             //đã chọn rồi thì mới đến đây
             // gọi form detail truyền selected sang /tham chiếu 
             DetailWindow detail = new DetailWindow();
+            detail.Header.Content = "Update";
 
             //gửi selected sang prop vừa tạo 
             detail.Entity = selectedBook; // gọi hàm set của prop Entity

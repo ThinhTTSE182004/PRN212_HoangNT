@@ -86,6 +86,33 @@ namespace BookManager
             // chọn bách hợp -> show số 4
             // show dùng MessageBox.Show(...Are You Sure);
             MessageBox.Show("Bạn Chọn Cate Số " + CateCombobox.SelectedValue);
+
+            // chửi validation giá tiền phải từ 50 đến 100 
+            // lấy giá tiền trong ô text txt_Price
+
+            //double price = double.Parse(txt_Price.Text); // gõ ahihi là vỡ mặt 
+
+            bool convert = double.TryParse(txt_Price.Text,out double price);
+                                    // gõ ahihi thì convert status = false
+                                    // gõ số tử tế thì convert = true;
+            if(convert == false)
+            {
+                MessageBox.Show("Giá Tiền Phải Là Con Số", "Input Eror", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            if(price < 50 || price > 100)
+            {
+                MessageBox.Show("Giá Tiền Phải Từ 50 - 100","Input Eror", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
+            }
+
+            MessageBox.Show("Save Thành Công ...", "Save", MessageBoxButton.OK, MessageBoxImage.Information);
+        }
+
+        private void btn_Close_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }

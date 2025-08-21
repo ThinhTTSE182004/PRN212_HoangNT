@@ -8,7 +8,7 @@
         Title="Detail Of A Book" Height="712" Width="500" Background="#C73636" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
     <Grid Margin="0,0,0,88">
         <Rectangle Stroke="Black" Margin="21,105,182,-32" RadiusX="10" RadiusY="10" />
-        <Label Content="Creat/Update Book" HorizontalAlignment="Center" Height="auto" Margin="0,10,0,0" VerticalAlignment="Top" Width="auto" Style="{StaticResource LargerLabel}"/>
+        <Label x:Name="Header" Content="Creat/Update Book" HorizontalAlignment="Center" Height="auto" Margin="0,10,0,0" VerticalAlignment="Top" Width="auto" Style="{StaticResource LargerLabel}"/>
 
         <StackPanel Margin="53,133,219,400">
             <TextBlock Text="Mã Số" Margin="0,0,0,5"/>
@@ -40,7 +40,7 @@
              FontSize="20" Margin="394,235,11,325" Click="btn_Save_Click"
         />
         <Button x:Name="btn_Close" Content="Close" Width="auto" Height="auto"
-            FontSize="20" Margin="394,327,10,233"
+            FontSize="20" Margin="394,327,10,233" Click="btn_Close_Click"
         />
         <TextBlock Text="Năm Phát Hành" Margin="56,447,217,121"/>
 
